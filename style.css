@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+.todos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.alert-primary {
+  margin: auto;
+}
